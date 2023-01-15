@@ -16,7 +16,7 @@ The dataset contains 10000 records and 12 features. The compact description of t
 |---------------------------------------------|------------------------------------------------------|
 | tau[x] x = 1, 2, 3, 4                       | Reaction time of participant                         |
 | p[x] x = 1, 2, 3, 4 p1 = abs(p2 + p3 + p4 ) | Nominal power consumed                               |
-| g[x] x = 1, 2, 3, 4                                     | Coefficient (gamma) proportional to price elasticity |
+| g[x] x = 1, 2, 3, 4                         | Coefficient (gamma) proportional to price elasticity |
 
 ## Models
 
