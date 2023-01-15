@@ -10,7 +10,7 @@ In this project, the impact of a given grid topology (shown in the figure below)
 
 ## Dataset Description
 
-The dataset contains 10000 records and 12 features. The compact description of them is given in the table below:
+The dataset (https://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+) contains 10000 records and 12 features. The compact description of them is given in the table below:
 
 | Feature                                     | Description                                          |
 |---------------------------------------------|------------------------------------------------------|
